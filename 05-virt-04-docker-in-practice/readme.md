@@ -14,6 +14,8 @@
 Задание 4.
 
 ![Результат выполения](./Screenshot_18.png)
+
+
 GitHub Fork: https://github.com/genzh/shvirtd-example-python
 
 Задание 5.
