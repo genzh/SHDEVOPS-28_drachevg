@@ -23,4 +23,16 @@ GitHub Fork: https://github.com/genzh/shvirtd-example-python
 ![Результат выполения](./Screenshot_19.png)
 
 ![get-docker.sh](./get-docker.sh)
-get-docker.sh
+
+.gitignore:
+/opt/backup-mysql.sh
+/opt/backup/
+/var/log/mysql-backup.log
+
+
+Задание 6.
+
+![Результат выполения](./Screenshot_20.png)
+![Результат выполения](./Screenshot_21.png)
+![Результат выполения](./Screenshot_22.png)
+
