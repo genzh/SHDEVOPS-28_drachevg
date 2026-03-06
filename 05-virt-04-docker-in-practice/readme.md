@@ -20,5 +20,7 @@ GitHub Fork: https://github.com/genzh/shvirtd-example-python
 
 Задание 5.
 
+![Результат выполения](./Screenshot_19.png)
 
-
+![get-docker.sh](./get-docker.sh)
+get-docker.sh
