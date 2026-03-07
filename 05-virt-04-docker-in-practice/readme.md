@@ -41,3 +41,11 @@ GitHub Fork: https://github.com/genzh/shvirtd-example-python
 Задание 6.1
 
 ![Результат выполения](./Screenshot_23.png)
+
+Задание 6.2
+
+![Результат выполения](./Screenshot_24.png)
+
+Задание 7
+
+![Результат выполения](./Screenshot_25.png)
